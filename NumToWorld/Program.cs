@@ -23,6 +23,10 @@ namespace NumToWorld
             {
                 Console.WriteLine("Yes Amount is matched.{0}", result);
             }
+            else
+            {
+                Console.WriteLine("No Amount did not matched.{0}", result);
+            }
             Console.ReadKey();
 
            
