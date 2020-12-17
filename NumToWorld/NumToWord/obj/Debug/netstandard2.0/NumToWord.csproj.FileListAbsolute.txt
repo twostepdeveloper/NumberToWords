@@ -1,0 +1,26 @@
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\bin\Debug\netstandard2.0\NumToWord.deps.json
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\bin\Debug\netstandard2.0\NumToWord.dll
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\bin\Debug\netstandard2.0\NumToWord.pdb
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\obj\Debug\netstandard2.0\NumToWord.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\obj\Debug\netstandard2.0\NumToWord.AssemblyInfoInputs.cache
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\obj\Debug\netstandard2.0\NumToWord.AssemblyInfo.cs
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\obj\Debug\netstandard2.0\NumToWord.dll
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\obj\Debug\netstandard2.0\NumToWord.pdb
+C:\Users\Shubham Kumar\source\repos\ProjectEurel\NumToWord\obj\Debug\netstandard2.0\NumToWord.csprojAssemblyReference.cache
+C:\Users\Shubham Kumar\source\repos\NumToWorld\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.deps.json
+C:\Users\Shubham Kumar\source\repos\NumToWorld\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.dll
+C:\Users\Shubham Kumar\source\repos\NumToWorld\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.pdb
+C:\Users\Shubham Kumar\source\repos\NumToWorld\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Kumar\source\repos\NumToWorld\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.AssemblyInfoInputs.cache
+C:\Users\Shubham Kumar\source\repos\NumToWorld\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.AssemblyInfo.cs
+C:\Users\Shubham Kumar\source\repos\NumToWorld\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.dll
+C:\Users\Shubham Kumar\source\repos\NumToWorld\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.pdb
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.deps.json
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.dll
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.pdb
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.AssemblyInfoInputs.cache
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.AssemblyInfo.cs
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.csproj.CoreCompileInputs.cache
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.dll
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.pdb
+C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.csprojAssemblyReference.cache
