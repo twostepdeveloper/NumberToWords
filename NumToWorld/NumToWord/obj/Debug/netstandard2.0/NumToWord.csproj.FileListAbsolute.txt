@@ -24,3 +24,12 @@ C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.
 C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.dll
 C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.pdb
 C:\Users\Rizwa\Desktop\NumberToWord\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.csprojAssemblyReference.cache
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.deps.json
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.dll
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\bin\Debug\netstandard2.0\NumToWord.pdb
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.csprojAssemblyReference.cache
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.AssemblyInfoInputs.cache
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.AssemblyInfo.cs
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.csproj.CoreCompileInputs.cache
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.dll
+C:\Users\Rizwa\Desktop\NumberToWord\NumberToWords\NumToWorld\NumToWord\obj\Debug\netstandard2.0\NumToWord.pdb

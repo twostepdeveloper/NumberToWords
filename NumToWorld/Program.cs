@@ -15,9 +15,9 @@ namespace NumToWorld
             string amountWord = Console.ReadLine();
          
             Console.WriteLine("Enter Amount in digit");
-            long amoutDigit = Convert.ToInt64(Console.ReadLine());
+            double amoutDigit = Convert.ToDouble(Console.ReadLine());
            // string invoiceWord = "Three Lakh Ninety Eight Thousand Six Hundred Fifty One";
-            string result = Num2Word.ToWord(amoutDigit, WordNotation.Indian);
+            string result = Num2Word.ToWord(amoutDigit, WordNotation.Us);
 
             if (amountWord.ToLower().Equals(result.ToLower()))
             {
