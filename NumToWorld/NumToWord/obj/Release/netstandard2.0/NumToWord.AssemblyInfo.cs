@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Predictive Solution")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Library is used for converting number to word and Number to Roman Number System. " +
     "Support Indian and US culture.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.3")]
