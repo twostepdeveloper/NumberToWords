@@ -39,9 +39,28 @@ namespace NumToWorld
             string amountWord = Console.ReadLine();
             Console.WriteLine("Enter Amount in digit");
             double amoutDigit = Convert.ToDouble(Console.ReadLine());
+            string result1 = string.Empty;
+            string result2 = string.Empty;
+            string finalresult = string.Empty;
+            string[] digitArray = amoutDigit.ToString().Split('.');
+            if (digitArray.Length == 2)
+            {
+                result1 = Num2Word.ToWord(Convert.ToDouble(digitArray[0]), WordNotation.Indian);
+                if (digitArray[1].Length > 1)
+                {
+                    result2 = Num2Word.ToWord(Convert.ToDouble(digitArray[1].Substring(0, 2)), WordNotation.Indian);
+                }
+                else
+                {
+                    result2 = Num2Word.ToWord(Convert.ToDouble((digitArray[1] + "0").Substring(0, 2)), WordNotation.Indian);
+                }
+            }
+            else
+            {
+                result1 = Num2Word.ToWord(amoutDigit, WordNotation.Indian).Replace("Point", "").Replace("  ", " ");
+            }
             // string invoiceWord = "Three Lakh Ninety Eight Thousand Six Hundred Fifty One";
             // last commit
-            string result = Num2Word.ToWord(amoutDigit, WordNotation.Indian).Replace("Point", "").Replace("  ", " ");
             string amountWord2 = string.Empty;
             amountWord = amountWord.ToLower().Replace("crores", "crore").Replace("lacks", "lakh").Replace("lack", "lakh")
                 .Replace("lakhs", "lakh").Replace("lacs", "lakh").Replace("lac", "lakh").Replace("thousands", "hazaar")
@@ -56,13 +75,14 @@ namespace NumToWorld
                 }
             }
             amountWord2 = amountWord2.TrimEnd();
-            if (amountWord2.Equals(result.ToLower()))
+            finalresult = (result1 + " " + result2).TrimEnd().ToLower();
+            if (amountWord2.Equals(finalresult))
             {
-                Console.WriteLine("Yes Amount is matched. entered-{0} result-{1}", amountWord2, result);
+                Console.WriteLine("Yes Amount is matched. entered-{0} result-{1}", amountWord2, finalresult);
             }
             else
             {
-                Console.WriteLine("No Amount did not matched. entered-{0} result-{1}", amountWord2, result);
+                Console.WriteLine("No Amount did not matched. entered-{0} result-{1}", amountWord2, finalresult);
             }
             Console.ReadKey();
         }
