@@ -64,7 +64,7 @@ namespace NumToWorld
             string amountWord2 = string.Empty;
             amountWord = amountWord.ToLower().Replace("crores", "crore").Replace("lacks", "lakh").Replace("lack", "lakh")
                 .Replace("lakhs", "lakh").Replace("lacs", "lakh").Replace("lac", "lakh").Replace("thousands", "hazaar")
-                .Replace("thousand", "hazaar").Replace("and", "").Replace("&", "").Replace("indian", "")
+                .Replace("thousand", "hazaar").Replace("forty", "fourty").Replace("and", "").Replace("&", "").Replace("indian", "")
                 .Replace("rupees", "").Replace("paise", "").Replace("paisa", "")
                 .Replace("hazaar", "thousand").Replace("only", "").ToLower();
             foreach (string splitted in amountWord.Split(' '))
